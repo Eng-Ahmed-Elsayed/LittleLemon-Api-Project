@@ -115,17 +115,30 @@ The username is also the passsword for all users
 
 ## Screenshots
 
-![Auth login to generate token](./Images/1-auth login to generate token.png)
+* ### Auth login to generate token
 
-![Add menu-item with token 1](./Images/2-Add menu-item with token 1.png)
+![Auth login to generate token](./Images/1-auth-login-to-generate-token.png)
 
-![Add menu-item with token 2](./Images/3-Add menu-item with token 2.png)
+* ### Add menu-item with token 1
 
-![List all menu-items with token](./Images/4-List all menu-items with token.png)
+![Add menu-item with token 1](./Images/2-Add-menu-item-with-token-1.png)
 
-![Get menu-item with token](./Images/5-get menu-item with token.png)
-![Get menu-item with token](./Images/5-get menu-item with token.png)
+* ### Add menu-item with token 2
 
-![Post item to the cart customer](./Images/6-Post item to the cart customer.png)
+![Add menu-item with token 2](./Images/3-Add-menu-item-with-token-2.png)
 
-![Other api points](./Images/other-api-points)
+* ### List all menu-items with token
+
+![List all menu-items with token](./Images/4-List-all-menu-items-with-token.png)
+
+* ### Get menu-item with token
+
+![Get menu-item with token](./Images/5-get-menu-item-with-token.png)
+
+* ### Post item to the cart customer
+
+![Post item to the cart customer](./Images/6-Post-item-to-the-cart-customer.png)
+
+* ### Other api points
+
+![Other api points](./Images/other-api-points.jpg)
