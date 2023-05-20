@@ -115,16 +115,17 @@ The username is also the passsword for all users
 
 ## Screenshots
 
-![Auth login to generate token](./images/1-auth login to generate token.png)
+![Auth login to generate token](./Images/1-auth login to generate token.png)
 
-![Add menu-item with token 1](./images/2-Add menu-item with token 1.png)
+![Add menu-item with token 1](./Images/2-Add menu-item with token 1.png)
 
-![Add menu-item with token 2](./images/3-Add menu-item with token 2.png)
+![Add menu-item with token 2](./Images/3-Add menu-item with token 2.png)
 
-![List all menu-items with token](./images/4-List all menu-items with token.png)
+![List all menu-items with token](./Images/4-List all menu-items with token.png)
 
-![Get menu-item with token](./images/5-get menu-item with token.png)
+![Get menu-item with token](./Images/5-get menu-item with token.png)
+![Get menu-item with token](./Images/5-get menu-item with token.png)
 
-![Post item to the cart customer](./images/6-Post item to the cart customer.png)
+![Post item to the cart customer](./Images/6-Post item to the cart customer.png)
 
-![Other api points](./images/other api points)
+![Other api points](./Images/other-api-points)
