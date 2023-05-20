@@ -1,0 +1,10 @@
+The username is also the passsword for all users
+Username/passsword  Role
+test123             Superuser   
+nfaire9             Manager 
+acozby0             Manager
+ahullah1            Delivery Crew
+gmorican2           Delivery Crew
+msarjant6           Customer(No groups)
+rotter7             Customer(No groups)
+
