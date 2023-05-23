@@ -1,4 +1,4 @@
-# Little Lemon Api Project using Django, Django-rest-framework and Djoser
+# Little Lemon Restaurant Api using Django, Django-rest-framework and Djoser
 
 ## Scope:-
 
